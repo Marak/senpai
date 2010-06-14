@@ -1,8 +1,17 @@
 {
   "kohai":{
-    "git":""
+    "git":"git@github.com:Marak/kohai.git"
   },
-  "Faker.js":{},
-  "say.js":{},
-  "translate.js":{}
+  "Faker.js":{
+    "git":"git@github.com:Marak/Faker.js.git"
+  },
+  "say.js":{
+    "git":"git@github.com:Marak/Faker.js.git"
+  },
+  "play.js":{
+    "git":"git@github.com:Marak/play.js.git"
+  },
+  "translate.js":{
+    "git":"git@github.com:Marak/translate.js.git"
+  }
 }
