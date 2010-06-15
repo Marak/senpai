@@ -1,17 +1,5 @@
 {
-  "kohai":{
-    "git":"git@github.com:Marak/kohai.git"
-  },
-  "Faker.js":{
-    "git":"git@github.com:Marak/Faker.js.git"
-  },
-  "say.js":{
-    "git":"git@github.com:Marak/Faker.js.git"
-  },
-  "play.js":{
-    "git":"git@github.com:Marak/play.js.git"
-  },
-  "translate.js":{
-    "git":"git@github.com:Marak/translate.js.git"
+  "JSONloops":{
+    "git":"git@github.com:Marak/JSONloops.git"
   }
 }
