@@ -126,7 +126,7 @@ exports.commit = function(gitPath){
   x = x.replace('.git','');
   //sys.puts('Attempting to clone repo @ ' + gitPath);
   sys.puts(appDir, gitPath);
-  var commitCommand = 'cd ' + appDir + x + ' && git commit -a -m "kohai reporting that all is well sanpai. '+x+' has been succesfully updated, tested, and deployed." && git push origin master';
+  var commitCommand = 'cd ' + appDir + x + ' && git commit -a -m "'+x+' has been succesfully updated, tested, and deployed. kohai reporting that all is well sanpai. " && git push origin master';
   sys.puts(commitCommand);
 
   // Remark: Using 'exec' here because chaining 'spawn' is a PIMFA
