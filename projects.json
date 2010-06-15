@@ -1,5 +1,23 @@
 {
-  "JSONloops":{
-    "git":"git@github.com:Marak/JSONloops.git"
-  }
+    "Faker.js": {
+        "git": "git@github.com:Marak/Faker.js.git" 
+    },
+    "colors.js": {
+        "git": "git@github.com:Marak/play.js.git" 
+    },
+    "play.js": {
+        "git": "git@github.com:Marak/play.js.git" 
+    },
+    "say.js": {
+        "git": "git@github.com:Marak/Faker.js.git" 
+    },
+    "translate.js": {
+        "git": "git@github.com:Marak/translate.js.git" 
+    },
+    "JSONloops":{
+      "git":"git@github.com:Marak/JSONloops.git"
+    },
+    "route.js":{
+      "git":"git@github.com:Marak/route.js.git"
+    }
 }
