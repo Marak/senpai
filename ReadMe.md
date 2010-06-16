@@ -1,4 +1,8 @@
-<h1>instructions</h1>
+<h1>WARNING: using this software might result in bad things happening</h1>
+
+<h1>i really would recommend not using this or reading any of the code. you have better things to do.</h1>
+
+<h2>instructions</h2>
 1. sit in a directory
 2. maintain a JSON file containing all repos in sorted order
 3. clone all of those repos into the appspace
